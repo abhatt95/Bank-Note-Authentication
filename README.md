@@ -21,4 +21,3 @@ Undestanding Data
   - manhattan
   - euclidean
   - Chebyshev 
-# Bank-Note-Authentication
